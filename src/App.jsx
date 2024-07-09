@@ -13,7 +13,7 @@ function App() {
       <div className='App'>
 
         <div className='searchbar-container'>
-          <h1>Search Bar🔍</h1>
+          <h1>Search Bar 🔍</h1>
          <Searchbar setresult={setresult}/>
           <SearchResultsList results={results}/>
 
