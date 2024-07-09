@@ -1,0 +1,28 @@
+.Searchbar-Wrapper {
+    box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+    width: 150%;
+    border-radius: 10px;
+    height: 2.5rem;
+    padding: 0 15px;
+    display: flex;
+    align-items: center;
+
+
+}
+
+input {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    height: 100%;
+    font-size: 1.25rem;
+    width: 100%;
+    margin-left: 5px;
+    color: white;
+
+}
+
+#search-icon{
+    color: #7311eb;
+    font-size: 25px;
+}
